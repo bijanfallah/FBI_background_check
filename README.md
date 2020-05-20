@@ -1,2 +1,2 @@
 # Project: FBI NICS Firearm Background Check Data
-** please check the notebook for details
+** please check the notebook for details **
